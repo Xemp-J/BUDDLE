@@ -10,8 +10,7 @@ body{
 
 .header{
    
-     background: linear-gradient( 80deg, transparent, hsl(192, 100%, 91%)), url(./huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-mobile.svg); */
-     
+     background: linear-gradient( 80deg, transparent, hsl(192, 100%, 91%)), url(images/bg-hero-mobile.svg);   
 }
 
 .container-one{
@@ -49,9 +48,6 @@ body{
     background-color: white;
     color:black;
     box-shadow: inset;
-}
-.container-two{
-    
 }
 .container-two h3{
     
@@ -128,7 +124,7 @@ body{
     text-align: center;
     border-radius: 13px;
     padding: 60px 30px 60px 30px;
-     margin-top: 300px; 
+     margin-top: 150px; 
     position: relative;
     top:120px;
     background-color: white;
